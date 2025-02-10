@@ -120,7 +120,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [SHAIK TASLEEM KHAN](https://github.com/Tasleemkhan7)
 - [IMMANI RAMA VENKATA SRI SAI](https://github.com/saiimmani)
 - [KALEPU NEERAJ TEJA](https://github.com/neerajteja17)
-
+- [MANDA UJWAL REDDY](https://github.com/Ujwal4455)
 ## 🤝 Support
 
 If you encounter any issues or need assistance with the project, feel free to open an issue in the repository or reach out to the contributors.
