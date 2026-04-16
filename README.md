@@ -16,7 +16,7 @@ A comprehensive and user-friendly **Bus Management System** developed using **Ja
 - **Frontend**: Java Swing
 - **Backend**: Java
 - **Database**: MySQL
-- **IDE**: IntelliJ IDEA, Eclipse, or any Java IDE
+- **IDE**: IntelliJ IDEA
 
 ## ⚙️ Getting Started
 
